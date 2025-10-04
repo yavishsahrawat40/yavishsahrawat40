@@ -10,11 +10,11 @@
 ---
 
 ## 🛠️ Tech Stack  
-- **Frontend:** React.js, HTML, CSS, JavaScript, TailwindCSS  
+- **Frontend:** React.js, HTML, CSS, JavaScript, TailwindCSS, React.js  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB, Firebase, MySQL  
 - **Cloud:** AWS, Firebase  
-- **AI/ML:** NLP, Deep Learning, PyTorch, Transformers  
+- **AI/ML:** NLP, Deep Learning, PyTorch, Transformers, Computer Vision
 
 ---
 
