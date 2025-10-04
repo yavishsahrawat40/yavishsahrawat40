@@ -5,8 +5,8 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yavisahrawat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/yavisahrawat?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=yavishsahrawat40&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/yavishsahrawat40?label=Followers&style=social" alt="GitHub Followers" />
 </div>
 
 ---
@@ -76,7 +76,7 @@ const yavish = {
 ## 💼 Professional Experience
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yavisahrawat&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yavishsahrawat40&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ### 🏢 Elite Forums - Full Stack Developer Intern
@@ -93,7 +93,7 @@ const yavish = {
 ## 🎯 Featured Projects
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yavisahrawat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yavishsahrawat40&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 ### 🎪 Konnect – Event Management Platform
@@ -143,8 +143,8 @@ const yavish = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yavisahrawat&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=yavisahrawat&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yavishsahrawat40&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=yavishsahrawat40&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ---
@@ -185,9 +185,9 @@ class Goals2025:
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](your-portfolio-link)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yavisahrawat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-link)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yavishsahrawat.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yavishsahrawat40)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yavish-sahrawat-62017325/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yavisahrawat@gmail.com)
 
 </div>
