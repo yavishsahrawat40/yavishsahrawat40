@@ -18,6 +18,7 @@
 ```javascript
 const yavish = {
     pronouns: "He/Him",
+    location: "Mumbai, India",
     education: "B.Tech CSE @ VIT-AP (2022-2026)",
     currentFocus: "Full Stack Development & AI/ML",
     funFact: "I turn coffee into code ☕️→💻",
@@ -30,6 +31,8 @@ const yavish = {
 🔥 **Passionate about** delivering end-to-end solutions that combine engineering efficiency with intelligent automation.
 
 📧 **Contact:** yavisahrawat@gmail.com | 📱 **Phone:** +91-7814624833
+
+<br clear="right"/>
 
 ---
 
@@ -96,27 +99,31 @@ const yavish = {
 </div>
 
 ### 🎪 Konnect – Event Management Platform
+
 <img align="right" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 🎯 **Impact:** Increased student engagement by **50%** through intuitive workflows
 
 ✨ **Features:**
-- 🔴 Real-time event hosting and registrations
+- � Reael-time event hosting and registrations
 - 📱 Live updates and collaboration
 - 🎨 Modern, responsive UI/UX
 
 **🛠️ Tech Stack:** React.js, Tailwind CSS, Node.js, Express.js, Firebase, Cloudinary
 
+<br clear="right"/>
+
 ---
 
 ### 🧠 Hierarchical Text Classification with DistilBERT
+
 <img align="left" width="300" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif">
 
 🎯 **Achievement:** **87% accuracy** on benchmark dataset
 
 ✨ **Features:**
 - 🤖 Multi-level classification using DistilBERT
-- 🔤 Custom tokenization and NLP preprocessing
+- � Custom etokenization and NLP preprocessing
 - 📊 Comprehensive evaluation metrics
 
 **🛠️ Tech Stack:** Python, Hugging Face Transformers, PyTorch, Scikit-learn
@@ -126,16 +133,19 @@ const yavish = {
 ---
 
 ### 🚚 SwiftShip – AI-Driven Logistics Platform
+
 <img align="right" width="300" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
 
 🎯 **Impact:** **25% efficiency improvement** through smart route optimization
 
 ✨ **Features:**
-- 🗺️ Geospatial analysis and route optimization
-- 🔐 Multi-provider authentication (Email, Google, OTP)
+- �️M Geospatial analysis and route optimization
+- � Multi-iprovider authentication (Email, Google, OTP)
 - 📊 Data visualization dashboard for insights
 
 **🛠️ Tech Stack:** React.js, Firebase, Leaflet.js, Recharts, Tailwind CSS
+
+<br clear="right"/>
 
 ---
 
