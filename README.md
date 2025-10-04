@@ -18,7 +18,6 @@
 ```javascript
 const yavish = {
     pronouns: "He/Him",
-    location: "Mumbai, India",
     education: "B.Tech CSE @ VIT-AP (2022-2026)",
     currentFocus: "Full Stack Development & AI/ML",
     funFact: "I turn coffee into code ☕️→💻",
